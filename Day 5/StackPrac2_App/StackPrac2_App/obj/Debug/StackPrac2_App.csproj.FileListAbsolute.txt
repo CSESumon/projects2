@@ -1,0 +1,5 @@
+E:\ASP.Net\Projects\Day 5\StackPrac2_App\StackPrac2_App\bin\Debug\StackPrac2_App.exe.config
+E:\ASP.Net\Projects\Day 5\StackPrac2_App\StackPrac2_App\bin\Debug\StackPrac2_App.exe
+E:\ASP.Net\Projects\Day 5\StackPrac2_App\StackPrac2_App\bin\Debug\StackPrac2_App.pdb
+E:\ASP.Net\Projects\Day 5\StackPrac2_App\StackPrac2_App\obj\Debug\StackPrac2_App.exe
+E:\ASP.Net\Projects\Day 5\StackPrac2_App\StackPrac2_App\obj\Debug\StackPrac2_App.pdb

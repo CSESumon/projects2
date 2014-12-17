@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\Day 5\QueuePrac1_App\QueuePrac1_App\bin\Debug\QueuePrac1_App.exe.config
+E:\ASP.Net\Projects\Day 5\QueuePrac1_App\QueuePrac1_App\bin\Debug\QueuePrac1_App.exe
+E:\ASP.Net\Projects\Day 5\QueuePrac1_App\QueuePrac1_App\bin\Debug\QueuePrac1_App.pdb
+E:\ASP.Net\Projects\Day 5\QueuePrac1_App\QueuePrac1_App\obj\Debug\QueuePrac1_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\Day 5\QueuePrac1_App\QueuePrac1_App\obj\Debug\QueuePrac1_App.exe
+E:\ASP.Net\Projects\Day 5\QueuePrac1_App\QueuePrac1_App\obj\Debug\QueuePrac1_App.pdb

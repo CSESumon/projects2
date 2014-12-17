@@ -1,0 +1,12 @@
+G:\14.12.14\customerInfo\customerInfo\bin\Debug\customerInfo.exe.config
+G:\14.12.14\customerInfo\customerInfo\bin\Debug\customerInfo.exe
+G:\14.12.14\customerInfo\customerInfo\bin\Debug\customerInfo.pdb
+G:\14.12.14\customerInfo\customerInfo\obj\Debug\customerInfo.csprojResolveAssemblyReference.cache
+G:\14.12.14\customerInfo\customerInfo\obj\Debug\employeeInfo.employee.resources
+G:\14.12.14\customerInfo\customerInfo\obj\Debug\customerInfo.Properties.Resources.resources
+G:\14.12.14\customerInfo\customerInfo\obj\Debug\customerInfo.csproj.GenerateResource.Cache
+G:\14.12.14\customerInfo\customerInfo\obj\Debug\customerInfo.exe
+G:\14.12.14\customerInfo\customerInfo\obj\Debug\customerInfo.pdb
+C:\Users\bcc\Desktop\customerInfo\customerInfo\bin\Debug\customerInfo.exe.config
+C:\Users\bcc\Desktop\customerInfo\customerInfo\obj\Debug\customerInfo.exe
+C:\Users\bcc\Desktop\customerInfo\customerInfo\obj\Debug\customerInfo.pdb

@@ -1,0 +1,11 @@
+F:\ASP.Net\Day 5\EmployeeSalary_App\EmployeeSalary_App\bin\Debug\EmployeeSalary_App.exe.config
+F:\ASP.Net\Day 5\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.csprojResolveAssemblyReference.cache
+F:\ASP.Net\Day 5\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.Form1.resources
+F:\ASP.Net\Day 5\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.Properties.Resources.resources
+F:\ASP.Net\Day 5\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.csproj.GenerateResource.Cache
+F:\ASP.Net\Day 5\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.EmployeeSalaryUi.resources
+E:\Work\ASP.Net\Prac\Day 6\EmployeeSalary_App\EmployeeSalary_App\bin\Debug\EmployeeSalary_App.exe.config
+E:\Work\ASP.Net\Prac\Day 6\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.csprojResolveAssemblyReference.cache
+E:\Work\ASP.Net\Prac\Day 6\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.EmployeeSalaryUi.resources
+E:\Work\ASP.Net\Prac\Day 6\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.Properties.Resources.resources
+E:\Work\ASP.Net\Prac\Day 6\EmployeeSalary_App\EmployeeSalary_App\obj\Debug\EmployeeSalary_App.csproj.GenerateResource.Cache

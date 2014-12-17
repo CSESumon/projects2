@@ -1,0 +1,19 @@
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe.config
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.pdb
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csprojResolveAssemblyReference.cache
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.Form1.resources
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.Properties.Resources.resources
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csproj.GenerateResource.Cache
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.exe
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.pdb
+G:\14.12.14\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\CSVLib.dll
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe.config
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.exe
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.pdb
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.pdb
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csprojResolveAssemblyReference.cache
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.Form1.resources
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.Properties.Resources.resources
+F:\ASP.Net\Day 5\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csproj.GenerateResource.Cache
